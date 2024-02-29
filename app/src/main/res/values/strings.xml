@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FirebaseStorage</string>
+    <string name="google_auth">Google Auth</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="default_web_client_id">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</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="next_page">Next_Page</string>
+</resources>
